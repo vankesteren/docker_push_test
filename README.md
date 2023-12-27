@@ -1,2 +1,3 @@
-# docker_push_test
- test for pushing from releases to docker hub
+# Docker release test
+
+Basic test for pushing from github releases to docker hub
